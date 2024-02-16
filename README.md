@@ -19,10 +19,6 @@
    <li>O que é programação Orientada a Objeto e qual sua importância;</li>
    <li>Criar e Manipúlar Classes, propriedades, métodos de acesso, construtor e parâmetros;</li>
    <li>Namespaces, Internal, Interface, Hierarquia, Metodos Estáticos e Polimorfismo;</li>
-   <li>Integrar uma API externa no meu projeto;</li>
-   <li>Transformar um JSON de uma API externa em objetos C#;</li>
-   <li>Manipular os dados com LINQ;</li>
-   <li>Criar e integrar arquivos JSON e TXT usando C#;</li>
     </la>
 </p>
 
