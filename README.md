@@ -11,7 +11,7 @@
 
 
 <h2>📖 Sobre</h2>
-<p>Este projeto foi feito no visual studio na linguagem C# onde em todos esse trajeto fui aprendendo como manipular e utilizar a mesma, fui instruido por grandes professores da <a href="https://www.linkedin.com/school/aluracursos/">@Alura</a> o professor <a href="https://www.linkedin.com/in/guilherme-lima-458925178/">@Guilherme Lima</a>, e o professor <a href="https://www.linkedin.com/in/dpcosta74/">@Daniel Portugal</a>.
+<p>Este projeto foi feito no visual studio na linguagem C#, e é como um aplicativo de musica onde você pode ver e adicionar informações da sua banda favorita e o Chat GPT te fornece informações sobre a banda que deseja ver, nesse projeto fui aprendendo como manipular e utilizar a mesma, fui instruido por grandes professores da <a href="https://www.linkedin.com/school/aluracursos/">@Alura</a> o professor <a href="https://www.linkedin.com/in/guilherme-lima-458925178/">@Guilherme Lima</a>, e o professor <a href="https://www.linkedin.com/in/dpcosta74/">@Daniel Portugal</a>.
   
    Conhecimentos que adiquiri nesse curso em C#:
    <la>
